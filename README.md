@@ -10,7 +10,6 @@
     🚧 Projeto em ReactJS.  🚀 Em construção...  🚧
 </h4>
 </div>
-# Github Blog Ignite
 
 Projeto desafio da trilha ReactJS do Ignite da RocketSeat.
 
@@ -64,7 +63,7 @@ Pré-requisitos: NODE e npm
 
 ```bash
 # clonar repositório
-git clone https://...
+git clone https://github.com/Paulohbarbosa/GitHub-Blog-Ignite.git
 
 # entrar na pasta do projeto raiz e instalar as dependências
 npm install
