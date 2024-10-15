@@ -21,6 +21,11 @@ export const HomeContainer = styled.div`
             color: ${props => props.theme["base-label"]};
         }
 
+        &:hover{
+            border: 1px solid ${props => props.theme["base-span"]};
+            transition: border 0.7s;
+        }
+
         &:focus{
             border: 1px solid ${props => props.theme.blue};
             transition: border 2s;

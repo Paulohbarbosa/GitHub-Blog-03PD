@@ -1,12 +1,9 @@
-import { Header } from "../../components/Header";
-import { PostInfo } from "../../components/PostInfo";
+import { PostInfo } from "./components/PostInfo";
 import { PostContainer, PostPublications } from "./styles";
 
 export function Post() {
     return (
         <div>
-            <Header />
-
             <PostContainer>
                 <PostInfo />
                 <PostPublications>

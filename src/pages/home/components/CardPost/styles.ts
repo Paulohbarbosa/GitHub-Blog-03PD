@@ -1,10 +1,12 @@
 import styled from "styled-components";
 
-export const CardPostContainer = styled.div`
+export const CardPostContainer = styled.button`
     background: ${props => props.theme["base-post"]};
     border: 2px solid transparent;
     border-radius: 10px;
     padding: 2rem;
+
+    text-align: start;
 
     line-height: 160%;
 

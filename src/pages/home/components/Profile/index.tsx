@@ -2,7 +2,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faArrowUpRightFromSquare, faBuilding, faUserGroup} from '@fortawesome/free-solid-svg-icons'
 import { faGithub } from "@fortawesome/free-brands-svg-icons";
 
-import user from "../../assets/user/user-model.jpg"
+import user from "../../../../assets/user/user-model.jpg"
 import { ProfileComponent, ProfileHeader, ProfileInfo, ProfileTextInformation } from "./styles";
 
 export function Profile(){
